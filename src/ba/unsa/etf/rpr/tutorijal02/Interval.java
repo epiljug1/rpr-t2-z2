@@ -130,6 +130,7 @@ public class Interval {
         return presjek;
     }
 
+
     @Override
     public String toString() {
         if(sadrziLiPrvu==true && sadrziLiDrugu==true ) return "["+pocetnaTacka+","+krajnjaTacka+ "]";
