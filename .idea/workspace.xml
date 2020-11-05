@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c1d4c9f-fa33-4311-bbc7-86949089e299" name="Default Changelist" comment="tut2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunManager">
+    <configuration name="IntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-t2-z2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.tutorijal02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.tutorijal02" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.tutorijal02.IntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntervalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1604604053668">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="598" y="132" key="#com.intellij.ide.util.MemberChooser/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604604053668" />
+    <state x="587" y="137" key="RollbackChangesDialog" timestamp="1604603887565">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="587" y="137" key="RollbackChangesDialog/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603887565" />
+    <state x="332" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604603883108">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="332" y="173" key="Vcs.Push.Dialog.v2/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603883108" />
+    <state x="419" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1604604410995">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="419" y="0" width="840" height="1034" key="search.everywhere.popup/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604604410995" />
+  </component>
+</project>
