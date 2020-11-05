@@ -1,0 +1,15 @@
+Index: src/ba/unsa/etf/rpr/tutorijal02/Interval.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package ba.unsa.etf.rpr.tutorijal02;\r\n\r\npublic class Interval {\r\n    private  double pocetnaTacka, krajnjaTacka;\r\n    private boolean sadrziLiPrvu, sadrziLiDrugu;\r\n\r\n    public double getPocetnaTacka() {\r\n        return pocetnaTacka;\r\n    }\r\n\r\n    public double getKrajnjaTacka() {\r\n        return krajnjaTacka;\r\n    }\r\n\r\n    public boolean isSadrziLiPrvu() {\r\n        return sadrziLiPrvu;\r\n    }\r\n\r\n    public boolean isSadrziLiDrugu() {\r\n        return sadrziLiDrugu;\r\n    }\r\n\r\n    public Interval(double pocetnaTacka, double krajnjaTacka, boolean sadrziLiPrvu, boolean sadrziLiDrugu) throws IllegalAccessException {\r\n        if(pocetnaTacka >  krajnjaTacka) {\r\n            throw new IllegalAccessException(\"Pocetna tacka ispred krajnje\");\r\n        }\r\n        this.pocetnaTacka = pocetnaTacka;\r\n        this.krajnjaTacka = krajnjaTacka;\r\n        this.sadrziLiPrvu = sadrziLiPrvu;\r\n        this.sadrziLiDrugu = sadrziLiDrugu;\r\n    }\r\n\r\n    public Interval(){\r\n        pocetnaTacka=0;\r\n        krajnjaTacka=0;\r\n        sadrziLiPrvu=0;\r\n        sadrziLiDrugu=0;\r\n    }\r\n    boolean isNull(){\r\n\r\n        return  pocetnaTacka=0 && krajnjaTacka=0;\r\n    }\r\n    boolean isIn(double tacka){\r\n        if(sadrziLiPrvu &&  sadrziLiDrugu) return tacka>=pocetnaTacka &&  tacka=<krajnjaTacka;\r\n        else if(sadrziLiPrvu) return tacka>=pocetnaTacka &&  tacka<krajnjaTacka;\r\n        else if(sadrziLiDrugu) return  tacka>pocetnaTacka &&  tacka=<krajnjaTacka;\r\n        else return tacka>pocetnaTacka &&  tacka<krajnjaTacka;\r\n    }\r\n    public Interval intersect(Interval novi){\r\n        Interval presjek = new Interval();\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/ba/unsa/etf/rpr/tutorijal02/Interval.java	(revision 64b405e68387d12d277bde26ee1c01f70ce9fcc9)
++++ src/ba/unsa/etf/rpr/tutorijal02/Interval.java	(date 1604594119569)
+@@ -50,4 +50,5 @@
+         Interval presjek = new Interval();
+ 
+     }
++
+ }
