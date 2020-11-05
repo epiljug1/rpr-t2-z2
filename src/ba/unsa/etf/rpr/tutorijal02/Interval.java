@@ -101,6 +101,7 @@ public class Interval {
                 presjek.setKrajnjaTacka(drugi.getKrajnjaTacka());
                 presjek.setSadrziLiDrugu(drugi.isSadrziLiDrugu());
             }
+        System.out.println("ova grijesi u presjeku");
 //        if(prvi.getKrajnjaTacka() >  drugi.getPocetnaTacka() &&  prvi.getPocetnaTacka()< drugi.getKrajnjaTacka()){
 //            presjek.setKrajnjaTacka(prvi.getKrajnjaTacka());
 //            presjek.setSadrziLiDrugu(false);

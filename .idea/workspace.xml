@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be39d3d3-6aab-4674-82f3-7fc42cc89e30" name="Default Changelist" comment="Uradjeni konstruktori i  isNull i isIn metode">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpr-t2-z2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr-t2-z2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" afterDir="false" />
-    </list>
+    <list default="true" id="be39d3d3-6aab-4674-82f3-7fc42cc89e30" name="Default Changelist" comment="Prolaze svi at sem jednog(intersect3),treba popraviti to." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604594215171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Prolaze svi at sem jednog(intersect3),treba popraviti to.">
+      <created>1604603494750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604603494750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Prolaze svi at sem jednog(intersect3),treba popraviti to.">
+      <created>1604603546692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604603546692</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Prolaze svi at sem jednog(intersect3),treba popraviti to.">
+      <created>1604603601102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604603601102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,37 +134,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Uradjeni konstruktori i  isNull i isIn metode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uradjeni konstruktori i  isNull i isIn metode" />
+    <MESSAGE value="Prolaze svi at sem jednog(intersect3),treba popraviti to." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prolaze svi at sem jednog(intersect3),treba popraviti to." />
   </component>
   <component name="WindowStateProjectService">
     <state x="598" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1604601342969">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="598" y="132" key="#com.intellij.ide.util.MemberChooser/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604601342969" />
-    <state width="1625" height="257" key="GridCell.Tab.0.bottom" timestamp="1604602549620">
+    <state width="812" height="257" key="GridCell.Tab.0.bottom" timestamp="1604603626709">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1625" height="257" key="GridCell.Tab.0.bottom/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604602549620" />
-    <state width="1625" height="257" key="GridCell.Tab.0.center" timestamp="1604602549620">
+    <state width="812" height="257" key="GridCell.Tab.0.bottom/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603626709" />
+    <state width="812" height="257" key="GridCell.Tab.0.center" timestamp="1604603626709">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1625" height="257" key="GridCell.Tab.0.center/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604602549620" />
-    <state width="1625" height="257" key="GridCell.Tab.0.left" timestamp="1604602549620">
+    <state width="812" height="257" key="GridCell.Tab.0.center/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603626709" />
+    <state width="812" height="257" key="GridCell.Tab.0.left" timestamp="1604603626709">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1625" height="257" key="GridCell.Tab.0.left/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604602549620" />
-    <state width="1625" height="257" key="GridCell.Tab.0.right" timestamp="1604602549620">
+    <state width="812" height="257" key="GridCell.Tab.0.left/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603626709" />
+    <state width="812" height="257" key="GridCell.Tab.0.right" timestamp="1604603626709">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1625" height="257" key="GridCell.Tab.0.right/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604602549620" />
+    <state width="812" height="257" key="GridCell.Tab.0.right/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603626709" />
     <state x="192" y="0" key="SettingsEditor" timestamp="1604602321532">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="192" y="0" key="SettingsEditor/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604602321532" />
-    <state x="332" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604594229402">
+    <state x="332" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604603697841">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="332" y="173" key="Vcs.Push.Dialog.v2/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604594229402" />
+    <state x="332" y="173" key="Vcs.Push.Dialog.v2/1680.7.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1604603697841" />
     <state x="490" y="375" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604601997758">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
